@@ -1,0 +1,8 @@
+MusicLink intercepts music sharing links from various platforms and lets you open them in your preferred streaming service.
+
+Features:
+- Seamlessly transition between music services (Spotify, YouTube Music, Apple Music, Deezer, etc.)
+- Set a default platform to automatically open links without confirmation
+- Easy to use onboarding
+- Powered by Odesli API
+- Free and Open Source Software (FOSS)

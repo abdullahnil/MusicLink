@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MusicLink</string>
+    <string name="error_fetching_links">Fehler beim Abrufen der Links</string>
+    <string name="error_prefix">Fehler: %1$s</string>
+    <string name="searching_links">Suche nach Links…</string>
+    <string name="choose_platform">Plattform auswählen</string>
+    <string name="choose_platform_desc">Wählen Sie die App, die Sie öffnen möchten. Sie können sie als Standard festlegen, damit sie beim nächsten Mal automatisch geöffnet wird.</string>
+    <string name="no_links_found">Keine alternativen Plattform-Links gefunden.</string>
+    <string name="onboarding_title_1">Willkommen bei MusicLink!</string>
+    <string name="onboarding_desc_1">Genießen Sie die Freiheit, Musiklinks (Spotify, YouTube usw.), die Ihnen Freunde senden, auf Ihrer eigenen bevorzugten Musikplattform anzuhören.</string>
+    <string name="onboarding_title_2">Wie es funktioniert?</string>
+    <string name="onboarding_desc_2">Wenn Sie auf einen Link klicken oder diesen teilen, fängt MusicLink ihn ab und findet das Lied auf allen anderen Plattformen (YouTube Music, Apple, Deezer usw.) in Sekunden.</string>
+    <string name="onboarding_title_3">Standard festlegen</string>
+    <string name="onboarding_desc_3">Wenn Sie Ihre Lieblings-App vor dem Öffnen der Musik aus der Liste als \'Standard\' festlegen, werden Sie beim nächsten Klick direkt dorthin weitergeleitet.</string>
+    <string name="back">Zurück</string>
+    <string name="next">Weiter</string>
+    <string name="start">Starten</string>
+    <string name="settings_title">MusicLink Einstellungen</string>
+    <string name="current_default">Ihre aktuelle Standard-App:</string>
+    <string name="clear_default">Standard löschen</string>
+    <string name="no_default_title">Keine Standard-App ausgewählt</string>
+    <string name="no_default_desc">Sie können auf dem Listenbildschirm eine Plattform als Standard festlegen, um sie hier zu sehen.</string>
+    <string name="open_android_settings">Android-Link-Einstellungen öffnen</string>
+    <string name="open_android_settings_desc">Sie können die Berechtigung \'Unterstützte Links öffnen\' erteilen, um Musiklinks in Zukunft automatisch mit MusicLink zu öffnen.</string>
+    <string name="tap_to_open">Zum Öffnen tippen</string>
+    <string name="default_button">Standard</string>
+    <string name="error_api_failed">API-Aufruf ist mit Code %1$d fehlgeschlagen. Der Dienst hat das Lied möglicherweise nicht gefunden.</string>
+    <string name="youtube_music_search">YouTube Music (Suche)</string>
+    <string name="empty_response_body">Leerer Antworttext</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        tools:targetApi="31"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- Intent Filter for handling "Share" action -->
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+
+            <!-- Intent Filter to intercept Supported Links -->
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                
+                <!-- Spotify -->
+                <data android:scheme="https" android:host="open.spotify.com" />
+                <data android:scheme="http" android:host="open.spotify.com" />
+                
+                <!-- YouTube Music & YouTube -->
+                <data android:scheme="https" android:host="music.youtube.com" />
+                <data android:scheme="http" android:host="music.youtube.com" />
+                <data android:scheme="https" android:host="youtube.com" />
+                <data android:scheme="http" android:host="youtube.com" />
+                <data android:scheme="https" android:host="youtu.be" />
+                <data android:scheme="http" android:host="youtu.be" />
+
+                <!-- Apple Music -->
+                <data android:scheme="https" android:host="music.apple.com" />
+                <data android:scheme="http" android:host="music.apple.com" />
+                
+                <!-- Deezer -->
+                <data android:scheme="https" android:host="deezer.com" />
+                <data android:scheme="http" android:host="deezer.com" />
+                <data android:scheme="https" android:host="www.deezer.com" />
+                
+                <!-- Tidal -->
+                <data android:scheme="https" android:host="tidal.com" />
+                <data android:scheme="http" android:host="tidal.com" />
+                <data android:scheme="https" android:host="listen.tidal.com" />
+                
+                <!-- Yandex Music -->
+                <data android:scheme="https" android:host="music.yandex.ru" />
+                <data android:scheme="http" android:host="music.yandex.ru" />
+                
+                <!-- SoundCloud -->
+                <data android:scheme="https" android:host="soundcloud.com" />
+                <data android:scheme="http" android:host="soundcloud.com" />
+            </intent-filter>
+            
+        </activity>
+    </application>
+
+</manifest>

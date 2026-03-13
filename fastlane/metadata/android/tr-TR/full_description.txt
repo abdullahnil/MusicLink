@@ -1,0 +1,8 @@
+MusicLink, çeşitli platformlardan gelen müzik paylaşım bağlantılarını yakalar ve bunları tercih ettiğiniz dinleme servisinde açmanızı sağlar.
+
+Özellikler:
+- Müzik servisleri (Spotify, YouTube Music, Apple Music, Deezer vb.) arasında kesintisiz geçiş
+- Onay gerektirmeden bağlantıları otomatik açmak için varsayılan platform belirleme
+- Kolay kullanımlı başlangıç ekranı
+- Odesli API altyapısı
+- Özgür ve Açık Kaynak Kodlu Yazılım (FOSS)

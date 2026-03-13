@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MusicLink</string>
+    <string name="error_fetching_links">Error fetching links</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="searching_links">Searching for links…</string>
+    <string name="choose_platform">Choose Platform</string>
+    <string name="choose_platform_desc">Select the app you want to open. You can set it as default to open automatically next time.</string>
+    <string name="no_links_found">No alternative platform links found.</string>
+    <string name="onboarding_title_1">Welcome to MusicLink!</string>
+    <string name="onboarding_desc_1">Enjoy the freedom to listen to music links (Spotify, YouTube, etc.) sent by friends in your own preferred music platform.</string>
+    <string name="onboarding_title_2">How It Works?</string>
+    <string name="onboarding_desc_2">When you click or share a link, MusicLink intercepts it and finds the song on all other platforms (YouTube Music, Apple, Deezer, etc.) in seconds.</string>
+    <string name="onboarding_title_3">Set a Default</string>
+    <string name="onboarding_desc_3">If you set your favorite app as \'Default\' from the list before opening the music, you will be redirected directly to it on your next click.</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="start">Let\'s Start</string>
+    <string name="settings_title">MusicLink Settings</string>
+    <string name="current_default">Your current default app:</string>
+    <string name="clear_default">Clear Default</string>
+    <string name="no_default_title">No Default App Selected</string>
+    <string name="no_default_desc">You can make a platform default from the list screen to see it here.</string>
+    <string name="open_android_settings">Open Android Link Settings</string>
+    <string name="open_android_settings_desc">You can grant the \'Open supported links\' permission to open music links automatically with MusicLink.</string>
+    <string name="tap_to_open">Tap to open</string>
+    <string name="default_button">Default</string>
+    <string name="error_api_failed">API call failed with code %1$d. The service might not have found the song.</string>
+    <string name="youtube_music_search">YouTube Music (Search)</string>
+    <string name="empty_response_body">Empty response body</string>
+</resources>

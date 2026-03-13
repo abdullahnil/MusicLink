@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MusicLink</string>
+    <string name="error_fetching_links">Bağlantıları alırken bir hata oluştu</string>
+    <string name="error_prefix">Hata: %1$s</string>
+    <string name="searching_links">Bağlantılar aranıyor…</string>
+    <string name="choose_platform">Platform Seçin</string>
+    <string name="choose_platform_desc">Açmak istediğiniz uygulamayı seçin. \'Varsayılan Yap\' diyerek otomatik açılmasını sağlayabilirsiniz.</string>
+    <string name="no_links_found">Alternatif platform bağlantısı bulunamadı.</string>
+    <string name="onboarding_title_1">MusicLink\'e Hoş Geldiniz!</string>
+    <string name="onboarding_desc_1">Arkadaşlarınızdan gelen müzik linklerini (Spotify, YouTube vb.) kendi kullandığınız müzik platformunda dinleme özgürlüğüne kavuştunuz.</string>
+    <string name="onboarding_title_2">Nasıl Çalışır?</string>
+    <string name="onboarding_desc_2">Bir linke tıkladığınızda veya paylaştığınızda; MusicLink araya girerek o şarkının diğer tüm platformlardaki (YouTube Music, Apple, Deezer vb.) karşılıklarını saniyeler içinde bulur.</string>
+    <string name="onboarding_title_3">Varsayılanı Belirleyin</string>
+    <string name="onboarding_desc_3">Müziği açmadan önce listeden en sevdiğiniz uygulamayı \'Varsayılan\' yaparsanız, bir sonraki tıklamada doğrudan o çok sevdiğiniz uygulamanıza yönlendirilirsiniz.</string>
+    <string name="back">Geri</string>
+    <string name="next">İleri</string>
+    <string name="start">Başlayalım</string>
+    <string name="settings_title">MusicLink Ayarları</string>
+    <string name="current_default">Şu anki varsayılan uygulamanız:</string>
+    <string name="clear_default">Varsayılanı Temizle</string>
+    <string name="no_default_title">Varsayılan Uygulama Seçilmedi</string>
+    <string name="no_default_desc">Liste ekranındayken bir platformu varsayılan yaparak buraya gelmesini sağlayabilirsiniz.</string>
+    <string name="open_android_settings">Android Bağlantı Ayarlarını Aç</string>
+    <string name="open_android_settings_desc">Müzik linklerinin otomatik olarak MusicLink ile açılması için \'Desteklenen bağlantıları aç\' iznini verebilirsiniz.</string>
+    <string name="tap_to_open">Açmak için dokunun</string>
+    <string name="default_button">Varsayılan</string>
+    <string name="error_api_failed">API isteği %1$d koduyla başarısız oldu. Servis şarkıyı bulamamış olabilir.</string>
+    <string name="youtube_music_search">YouTube Music (Arama)</string>
+    <string name="empty_response_body">Boş yanıt gövdesi</string>
+</resources>

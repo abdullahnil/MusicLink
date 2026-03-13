@@ -1,0 +1,35 @@
+com.example.musiclink.test.app-emoji2-1.4.0-0 C:\Users\abdul\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\res
+com.example.musiclink.test.app-activity-1.8.1-1 C:\Users\abdul\.gradle\caches\transforms-3\08402164f40b9d77cee5bcec81665e44\transformed\activity-1.8.1\res
+com.example.musiclink.test.app-ui-util-release-2 C:\Users\abdul\.gradle\caches\transforms-3\0fc9ba4d1e9e32e9c493114681d41b80\transformed\ui-util-release\res
+com.example.musiclink.test.app-ui-test-junit4-release-3 C:\Users\abdul\.gradle\caches\transforms-3\14b35d9684a9b935b96ba9fc851af4ac\transformed\ui-test-junit4-release\res
+com.example.musiclink.test.app-core-ktx-1.12.0-4 C:\Users\abdul\.gradle\caches\transforms-3\26e2d70fa9e14165c2781f4da7a3aab7\transformed\core-ktx-1.12.0\res
+com.example.musiclink.test.app-ui-graphics-release-5 C:\Users\abdul\.gradle\caches\transforms-3\38901fa53a3bfae404ecc0ce49242163\transformed\ui-graphics-release\res
+com.example.musiclink.test.app-savedstate-ktx-1.2.1-6 C:\Users\abdul\.gradle\caches\transforms-3\4652180107297d1b68938eff4ae975f0\transformed\savedstate-ktx-1.2.1\res
+com.example.musiclink.test.app-activity-ktx-1.8.1-7 C:\Users\abdul\.gradle\caches\transforms-3\505e61efbacc10de7d5100035e6cfb95\transformed\activity-ktx-1.8.1\res
+com.example.musiclink.test.app-lifecycle-runtime-2.6.2-8 C:\Users\abdul\.gradle\caches\transforms-3\56d782d471a2c71b85ddb1a4b89de12c\transformed\lifecycle-runtime-2.6.2\res
+com.example.musiclink.test.app-ui-release-9 C:\Users\abdul\.gradle\caches\transforms-3\6e18ba4389101554fb5fe1d533e4dbd7\transformed\ui-release\res
+com.example.musiclink.test.app-lifecycle-viewmodel-savedstate-2.6.2-10 C:\Users\abdul\.gradle\caches\transforms-3\6f48f6c1f82b7c2573b2f1b377782b0c\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.musiclink.test.app-runtime-saveable-release-11 C:\Users\abdul\.gradle\caches\transforms-3\724d8a33f06359ecf28e4ebb726cac36\transformed\runtime-saveable-release\res
+com.example.musiclink.test.app-lifecycle-viewmodel-2.6.2-12 C:\Users\abdul\.gradle\caches\transforms-3\72ccfe7a5f2824861d58955960e190ca\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.musiclink.test.app-ui-test-release-13 C:\Users\abdul\.gradle\caches\transforms-3\7a8f6d94d385b033efefad155931ee36\transformed\ui-test-release\res
+com.example.musiclink.test.app-ui-text-release-14 C:\Users\abdul\.gradle\caches\transforms-3\80b6e0ff1e2ba2b86332c71de3dc9e8a\transformed\ui-text-release\res
+com.example.musiclink.test.app-savedstate-1.2.1-15 C:\Users\abdul\.gradle\caches\transforms-3\8157ab961eed74c85d617809a04b9722\transformed\savedstate-1.2.1\res
+com.example.musiclink.test.app-core-runtime-2.2.0-16 C:\Users\abdul\.gradle\caches\transforms-3\89fddfb36e16db218499d0b8680bb316\transformed\core-runtime-2.2.0\res
+com.example.musiclink.test.app-lifecycle-runtime-ktx-2.6.2-17 C:\Users\abdul\.gradle\caches\transforms-3\911ed107d34e7a58aefcc6e99a8808a1\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.musiclink.test.app-runtime-release-18 C:\Users\abdul\.gradle\caches\transforms-3\a0e6d127e9e2e0258c86b910be9e32bd\transformed\runtime-release\res
+com.example.musiclink.test.app-lifecycle-livedata-core-2.6.2-19 C:\Users\abdul\.gradle\caches\transforms-3\ad8e7149deb4effa4213d243ed1ec60a\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.musiclink.test.app-core-1.5.0-20 C:\Users\abdul\.gradle\caches\transforms-3\b1fdbd6c12a29475fce917f402636199\transformed\core-1.5.0\res
+com.example.musiclink.test.app-lifecycle-process-2.6.2-21 C:\Users\abdul\.gradle\caches\transforms-3\b4368718c3b02f2896611cb2bd631446\transformed\lifecycle-process-2.6.2\res
+com.example.musiclink.test.app-activity-compose-1.8.1-22 C:\Users\abdul\.gradle\caches\transforms-3\bbc8093bde9c9ab1bd56ee671a7025ad\transformed\activity-compose-1.8.1\res
+com.example.musiclink.test.app-annotation-experimental-1.3.0-23 C:\Users\abdul\.gradle\caches\transforms-3\bce3c3d39551a2a64e783fa888995479\transformed\annotation-experimental-1.3.0\res
+com.example.musiclink.test.app-ui-geometry-release-24 C:\Users\abdul\.gradle\caches\transforms-3\c9c48031e7c5f119cfc1c502df7ae1fb\transformed\ui-geometry-release\res
+com.example.musiclink.test.app-profileinstaller-1.3.0-25 C:\Users\abdul\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\res
+com.example.musiclink.test.app-lifecycle-viewmodel-ktx-2.6.2-26 C:\Users\abdul\.gradle\caches\transforms-3\d946e9b01a3c26488a9409c6d9f39863\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.musiclink.test.app-core-1.12.0-27 C:\Users\abdul\.gradle\caches\transforms-3\d9df576dcaca9e76e24725bc3e0fc475\transformed\core-1.12.0\res
+com.example.musiclink.test.app-startup-runtime-1.1.1-28 C:\Users\abdul\.gradle\caches\transforms-3\e6850f4de428ec33564b59ac8c943bf1\transformed\startup-runtime-1.1.1\res
+com.example.musiclink.test.app-customview-poolingcontainer-1.0.0-29 C:\Users\abdul\.gradle\caches\transforms-3\ea47a44b8b867dd8ee001a899d420347\transformed\customview-poolingcontainer-1.0.0\res
+com.example.musiclink.test.app-ui-unit-release-30 C:\Users\abdul\.gradle\caches\transforms-3\ef08a78f62dcedf04ce901477fa5b17f\transformed\ui-unit-release\res
+com.example.musiclink.test.app-androidTest-31 C:\Users\abdul\Documents\Antigravity Project\MusicLink\app\build\generated\res\resValues\androidTest\debug
+com.example.musiclink.test.app-mergeDebugAndroidTestResources-32 C:\Users\abdul\Documents\Antigravity Project\MusicLink\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.musiclink.test.app-mergeDebugAndroidTestResources-33 C:\Users\abdul\Documents\Antigravity Project\MusicLink\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.musiclink.test.app-merged_res-34 C:\Users\abdul\Documents\Antigravity Project\MusicLink\app\build\intermediates\merged_res\debugAndroidTest

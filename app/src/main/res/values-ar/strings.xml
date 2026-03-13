@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MusicLink</string>
+    <string name="error_fetching_links">خطأ في جلب الروابط</string>
+    <string name="error_prefix">خطأ: %1$s</string>
+    <string name="searching_links">جاري البحث عن روابط…</string>
+    <string name="choose_platform">اختر المنصة</string>
+    <string name="choose_platform_desc">اختر التطبيق الذي تريد فتحه. يمكنك تعيينه كافتراضي ليتم فتحه تلقائيًا في المرة القادمة.</string>
+    <string name="no_links_found">لم يتم العثور على روابط منصات بديلة.</string>
+    <string name="onboarding_title_1">مرحبًا بك في MusicLink!</string>
+    <string name="onboarding_desc_1">استمتع بحرية الاستماع إلى روابط الموسيقى (Spotify، YouTube، إلخ) المرسلة من الأصدقاء على منصة الموسيقى المفضلة لديك.</string>
+    <string name="onboarding_title_2">كيف يعمل؟</string>
+    <string name="onboarding_desc_2">عند النقر على رابط أو مشاركته، يعترضه MusicLink ويجد الأغنية على جميع المنصات الأخرى (YouTube Music، Apple، Deezer، إلخ) في ثوانٍ.</string>
+    <string name="onboarding_title_3">تعيين كافتراضي</string>
+    <string name="onboarding_desc_3">إذا عينت تطبيقك المفضل كـ \'افتراضي\' من القائمة قبل فتح الموسيقى، فسيتم توجيهك إليه مباشرة في نقرتك التالية.</string>
+    <string name="back">رجوع</string>
+    <string name="next">التالي</string>
+    <string name="start">للبدء</string>
+    <string name="settings_title">إعدادات MusicLink</string>
+    <string name="current_default">تطبيقك الافتراضي الحالي:</string>
+    <string name="clear_default">مسح الافتراضي</string>
+    <string name="no_default_title">لم يتم تحديد تطبيق افتراضي</string>
+    <string name="no_default_desc">يمكنك تعيين منصة كافتراضية من شاشة القائمة لرؤيتها هنا.</string>
+    <string name="open_android_settings">فتح إعدادات روابط Android</string>
+    <string name="open_android_settings_desc">يمكنك منح إذن \'فتح الروابط المدعومة\' لفتح روابط الموسيقى تلقائيًا باستخدام MusicLink.</string>
+    <string name="tap_to_open">اضغط للفتح</string>
+    <string name="default_button">افتراضي</string>
+    <string name="error_api_failed">فشل استدعاء واجهة برمجة التطبيقات برمز %1$d. قد لا يكون الخدمة قد عثرت على الأغنية.</string>
+    <string name="youtube_music_search">YouTube Music (بحث)</string>
+    <string name="empty_response_body">نص الاستجابة فارغ</string>
+</resources>
