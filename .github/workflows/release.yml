@@ -27,14 +27,16 @@ jobs:
       - name: Build Debug APK
         run: ./gradlew assembleDebug
 
-      - name: Rename APK
+      - name: Locate APK
         run: |
-          mv app/build/outputs/apk/debug/app-debug.apk app/build/outputs/apk/debug/MusicLink-${{ github.ref_name }}.apk
+          find app/build/outputs/apk -name "*.apk"
+          mkdir -p release-apk
+          cp app/build/outputs/apk/debug/*.apk release-apk/MusicLink-${{ github.ref_name }}.apk
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
-          files: app/build/outputs/apk/debug/MusicLink-${{ github.ref_name }}.apk
+          files: release-apk/MusicLink-${{ github.ref_name }}.apk
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
